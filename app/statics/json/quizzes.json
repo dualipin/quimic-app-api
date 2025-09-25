@@ -1,0 +1,1679 @@
+[
+    {
+        "id": 1,
+        "question": "¿Cuál es la unidad básica de la materia que aún conserva las propiedades químicas de un elemento?",
+        "options": [
+            "Molécula",
+            "Átomo",
+            "Compuesto",
+            "Ion"
+        ],
+        "answer": "Átomo",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 2,
+        "question": "¿Cuál de los siguientes es un ejemplo de un cambio químico?",
+        "options": [
+            "Fusión del hielo",
+            "Disolución de azúcar en agua",
+            "Combustión de madera",
+            "Ebullición del agua"
+        ],
+        "answer": "Combustión de madera",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 3,
+        "question": "¿Qué ley establece que el volumen de un gas es inversamente proporcional a la presión, manteniendo la temperatura constante?",
+        "options": [
+            "Ley de Charles",
+            "Ley de Boyle",
+            "Ley de Avogadro",
+            "Ley de Gay-Lussac"
+        ],
+        "answer": "Ley de Boyle",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 4,
+        "question": "¿Cuál es la concentración molar de una solución preparada disolviendo 58.5 gramos de NaCl en suficiente agua para obtener 2 litros de solución? (Peso molecular de NaCl = 58.5 g/mol)",
+        "options": [
+            "0.5 M",
+            "1.0 M",
+            "2.0 M",
+            "0.25 M"
+        ],
+        "answer": "0.5 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 5,
+        "question": "¿Cuál de los siguientes compuestos es un ácido fuerte?",
+        "options": [
+            "Ácido acético (CH3COOH)",
+            "Ácido fluorhídrico (HF)",
+            "Ácido clorhídrico (HCl)",
+            "Ácido carbónico (H2CO3)"
+        ],
+        "answer": "Ácido clorhídrico (HCl)",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 6,
+        "question": "¿Cuál es el símbolo químico del oxígeno?",
+        "options": [
+            "O",
+            "Ox",
+            "Og",
+            "Om"
+        ],
+        "answer": "O",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 7,
+        "question": "¿Qué número atómico tiene el carbono?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+        ],
+        "answer": "6",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 8,
+        "question": "¿Cuál de las siguientes opciones representa una mezcla homogénea?",
+        "options": [
+            "Agua con arena",
+            "Aceite y agua",
+            "Sal disuelta en agua",
+            "Una ensalada"
+        ],
+        "answer": "Sal disuelta en agua",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 9,
+        "question": "¿Qué tipo de enlace se forma al compartir electrones entre átomos?",
+        "options": [
+            "Enlace iónico",
+            "Enlace covalente",
+            "Enlace metálico",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 10,
+        "question": "¿Cuál es la fórmula química del agua oxigenada?",
+        "options": [
+            "H2O",
+            "H2O2",
+            "HO",
+            "O2H"
+        ],
+        "answer": "H2O2",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 11,
+        "question": "¿Cuál de las siguientes es una base fuerte?",
+        "options": [
+            "NH3",
+            "NaOH",
+            "CH3COOH",
+            "H2CO3"
+        ],
+        "answer": "NaOH",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 12,
+        "question": "¿Cuál es el pH de una solución neutra a 25°C?",
+        "options": [
+            "0",
+            "7",
+            "14",
+            "Depende de la solución"
+        ],
+        "answer": "7",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 13,
+        "question": "¿Cuántos gramos de NaCl se necesitan para preparar 500 mL de una solución 0.2 M?",
+        "options": [
+            "5.84 g",
+            "11.69 g",
+            "23.38 g",
+            "29.23 g"
+        ],
+        "answer": "5.84 g",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 14,
+        "question": "¿Qué principio establece que la entropía de un sistema aislado siempre aumenta en un proceso espontáneo?",
+        "options": [
+            "Primera ley de la termodinámica",
+            "Segunda ley de la termodinámica",
+            "Tercera ley de la termodinámica",
+            "Ley de Hess"
+        ],
+        "answer": "Segunda ley de la termodinámica",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 15,
+        "question": "La reacción A + B -> C tiene una ley de velocidad v = k[A]^2[B]. ¿Qué ocurre con la velocidad si se duplica la concentración de A y se reduce a la mitad la concentración de B?",
+        "options": [
+            "Se duplica",
+            "Se cuadruplica",
+            "Se multiplica por dos",
+            "No cambia"
+        ],
+        "answer": "Se duplica",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 16,
+        "question": "¿Cuál es el símbolo químico del sodio?",
+        "options": [
+            "Na",
+            "S",
+            "So",
+            "N"
+        ],
+        "answer": "Na",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 17,
+        "question": "¿Cuál de las siguientes opciones representa una reacción endotérmica?",
+        "options": [
+            "Combustión de metano",
+            "Fusión del hielo",
+            "Formación de óxido de hierro (herrumbre)",
+            "Neutralización de un ácido fuerte con una base fuerte"
+        ],
+        "answer": "Fusión del hielo",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 18,
+        "question": "¿Cuál es la fórmula química del ácido sulfúrico?",
+        "options": [
+            "HCl",
+            "HNO3",
+            "H2SO4",
+            "CH3COOH"
+        ],
+        "answer": "H2SO4",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 19,
+        "question": "¿Qué tipo de enlace se forma cuando se comparten electrones entre dos átomos?",
+        "options": [
+            "Enlace iónico",
+            "Enlace metálico",
+            "Enlace covalente",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 20,
+        "question": "¿Cuál es el número de Avogadro?",
+        "options": [
+            "3.0 x 10^8",
+            "6.022 x 10^23",
+            "1.66 x 10^-24",
+            "9.11 x 10^-31"
+        ],
+        "answer": "6.022 x 10^23",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 21,
+        "question": "¿Cuál de los siguientes elementos es un halógeno?",
+        "options": [
+            "Sodio",
+            "Hierro",
+            "Cloro",
+            "Argón"
+        ],
+        "answer": "Cloro",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 22,
+        "question": "¿Qué ley establece que el volumen de un gas es directamente proporcional a la temperatura absoluta, manteniendo la presión constante?",
+        "options": [
+            "Ley de Boyle",
+            "Ley de Charles",
+            "Ley de Gay-Lussac",
+            "Ley de Dalton"
+        ],
+        "answer": "Ley de Charles",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 23,
+        "question": "¿Cuál es la configuración electrónica del ion Fe2+?",
+        "options": [
+            "[Ar] 4s2 3d6",
+            "[Ar] 3d6",
+            "[Ar] 4s1 3d7",
+            "[Ar] 4s2 3d4"
+        ],
+        "answer": "[Ar] 3d6",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 24,
+        "question": "¿Cuál de las siguientes sustancias es anfótera?",
+        "options": [
+            "HCl",
+            "NaOH",
+            "H2O",
+            "NaCl"
+        ],
+        "answer": "H2O",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 25,
+        "question": "El pH de una disolución es 3. ¿Cuál es la concentración de iones hidronio [H3O+] en moles por litro?",
+        "options": [
+            "1 x 10^-11",
+            "1 x 10^-3",
+            "3",
+            "11"
+        ],
+        "answer": "1 x 10^-3",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 26,
+        "question": "¿Cuál de los siguientes es un ejemplo de mezcla homogénea?",
+        "options": [
+            "Agua y arena",
+            "Aceite y agua",
+            "Agua y sal",
+            "Piedras y tierra"
+        ],
+        "answer": "Agua y sal",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 27,
+        "question": "¿Qué número representa el número de Avogadro?",
+        "options": [
+            "6.022 x 10^22",
+            "6.022 x 10^24",
+            "6.022 x 10^23",
+            "6.022 x 10^-23"
+        ],
+        "answer": "6.022 x 10^23",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 28,
+        "question": "¿Cuál es la configuración electrónica del oxígeno (O)?",
+        "options": [
+            "1s²2s²2p³",
+            "1s²2s²2p⁴",
+            "1s²2s²2p⁵",
+            "1s²2s²2p⁶"
+        ],
+        "answer": "1s²2s²2p⁴",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 29,
+        "question": "¿Cuál de los siguientes ácidos es un ácido fuerte?",
+        "options": [
+            "Ácido acético (CH₃COOH)",
+            "Ácido fluorhídrico (HF)",
+            "Ácido clorhídrico (HCl)",
+            "Ácido carbónico (H₂CO₃)"
+        ],
+        "answer": "Ácido clorhídrico (HCl)",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 30,
+        "question": "Si la concentración de iones hidronio [H₃O⁺] en una solución es 1 x 10⁻⁵ M, ¿cuál es el pH de la solución?",
+        "options": [
+            "5",
+            "9",
+            "-5",
+            "14"
+        ],
+        "answer": "5",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 31,
+        "question": "¿Cuál de los siguientes compuestos orgánicos no contiene un grupo funcional carbonilo (C=O)?",
+        "options": [
+            "Aldehído",
+            "Cetona",
+            "Éter",
+            "Ácido carboxílico"
+        ],
+        "answer": "Éter",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 32,
+        "question": "El principio de Le Chatelier establece que si se aplica un cambio de condición a un sistema en equilibrio, el sistema se desplazará en una dirección que alivie el estrés. ¿Cuál de los siguientes no es un factor que afecte el equilibrio?",
+        "options": [
+            "Cambio en la concentración de un reactivo o producto",
+            "Cambio en la temperatura",
+            "Adición de un catalizador",
+            "Cambio en la presión"
+        ],
+        "answer": "Adición de un catalizador",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 33,
+        "question": "¿Cuál de los siguientes es un ejemplo de cambio físico?",
+        "options": [
+            "Quemar madera",
+            "Oxidar un clavo",
+            "Hervir agua",
+            "Hornear un pastel"
+        ],
+        "answer": "Hervir agua",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 34,
+        "question": "¿Cuál es la fórmula química del agua?",
+        "options": [
+            "HO",
+            "H2O",
+            "O2H",
+            "H3O"
+        ],
+        "answer": "H2O",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 35,
+        "question": "¿Qué partícula subatómica tiene carga positiva?",
+        "options": [
+            "Electrón",
+            "Neutrón",
+            "Protón",
+            "Positrón"
+        ],
+        "answer": "Protón",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 36,
+        "question": "¿Cuál es la molaridad de una solución que contiene 40 gramos de NaOH en 500 mL de solución? (Peso molecular de NaOH = 40 g/mol)",
+        "options": [
+            "0.5 M",
+            "1 M",
+            "2 M",
+            "0.2 M"
+        ],
+        "answer": "2 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 37,
+        "question": "Si la entalpía de una reacción es negativa, ¿la reacción es?",
+        "options": [
+            "Endotérmica",
+            "Exotérmica",
+            "En equilibrio",
+            "Adiabática"
+        ],
+        "answer": "Exotérmica",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 38,
+        "question": "¿Cuál de los siguientes elementos tiene la mayor electronegatividad?",
+        "options": [
+            "Sodio (Na)",
+            "Cloro (Cl)",
+            "Potasio (K)",
+            "Magnesio (Mg)"
+        ],
+        "answer": "Cloro (Cl)",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 39,
+        "question": "¿Quién es conocido como el 'padre' de la tabla periódica?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Dmitri Mendeléyev",
+            "Marie Curie"
+        ],
+        "answer": "Dmitri Mendeléyev",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 40,
+        "question": "¿Cuál es el elemento más ligero de la tabla periódica?",
+        "options": [
+            "Helio",
+            "Hidrógeno",
+            "Litio",
+            "Oxígeno"
+        ],
+        "answer": "Hidrógeno",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 41,
+        "question": "¿Qué elemento tiene el símbolo 'N' y es un componente principal del aire?",
+        "options": [
+            "Neón",
+            "Nitrógeno",
+            "Níquel",
+            "Neptunio"
+        ],
+        "answer": "Nitrógeno",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 42,
+        "question": "¿Qué elemento metálico es líquido cerca de la temperatura corporal y tiene el símbolo 'Ga'?",
+        "options": [
+            "Galio",
+            "Germanio",
+            "Gadolinio",
+            "Grafito"
+        ],
+        "answer": "Galio",
+        "difficulty": "easy",
+        "created_by": "system"
+    },
+    {
+        "id": 43,
+        "question": "¿Qué gas noble tiene el símbolo 'Ar'?",
+        "options": [
+            "Argón",
+            "Arsénico",
+            "Actinio",
+            "Antimonio"
+        ],
+        "answer": "Argón",
+        "difficulty": "easy",
+        "created_by": "system"
+    },
+    {
+        "id": 44,
+        "question": "¿Qué elemento tiene el símbolo 'Cu' y es excelente conductor de electricidad?",
+        "options": [
+            "Carbono",
+            "Cobalto",
+            "Cobre",
+            "Cromo"
+        ],
+        "answer": "Cobre",
+        "difficulty": "easy",
+        "created_by": "system"
+    },
+    {
+        "id": 45,
+        "question": "¿Cuál de los siguientes elementos es un halógeno?",
+        "options": [
+            "Cloro",
+            "Carbono",
+            "Calcio",
+            "Cobre"
+        ],
+        "answer": "Cloro",
+        "difficulty": "easy",
+        "created_by": "system"
+    },
+    {
+        "id": 46,
+        "question": "¿Qué elemento tiene el número atómico 1?",
+        "options": [
+            "Helio",
+            "Hidrógeno",
+            "Litio",
+            "Berilio"
+        ],
+        "answer": "Hidrógeno",
+        "difficulty": "easy",
+        "created_by": "system"
+    },
+    {
+        "id": 47,
+        "question": "¿Qué elemento tiene el símbolo 'Sn'?",
+        "options": [
+            "Sodio",
+            "Estaño",
+            "Selenio",
+            "Samario"
+        ],
+        "answer": "Estaño",
+        "difficulty": "easy",
+        "created_by": "system"
+    },
+    {
+        "id": 48,
+        "question": "¿Qué elemento radiactivo tiene el símbolo 'Ra'?",
+        "options": [
+            "Radio",
+            "Rutenio",
+            "Renio",
+            "Rodio"
+        ],
+        "answer": "Radio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 49,
+        "question": "¿Qué elemento tiene el símbolo 'C' y es la base de la vida orgánica?",
+        "options": [
+            "Carbono",
+            "Calcio",
+            "Cloro",
+            "Cromo"
+        ],
+        "answer": "Carbono",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 50,
+        "question": "¿Qué elemento tiene el símbolo 'He' y se utiliza en globos aerostáticos?",
+        "options": [
+            "Hidrógeno",
+            "Helio",
+            "Neón",
+            "Argón"
+        ],
+        "answer": "Helio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 51,
+        "question": "¿Cuál es el símbolo químico del calcio?",
+        "options": [
+            "Ca",
+            "Cs",
+            "Cu",
+            "Co"
+        ],
+        "answer": "Ca",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 52,
+        "question": "¿Qué elemento tiene el símbolo 'Br' y es un halógeno líquido?",
+        "options": [
+            "Bromo",
+            "Boro",
+            "Berilio",
+            "Bismuto"
+        ],
+        "answer": "Bromo",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 53,
+        "question": "¿Cuál es el elemento con el símbolo 'Ne'?",
+        "options": [
+            "Neón",
+            "Níquel",
+            "Neptunio",
+            "Nitrógeno"
+        ],
+        "answer": "Neón",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 54,
+        "question": "¿Qué elemento tiene el número atómico 82?",
+        "options": [
+            "Plomo",
+            "Platino",
+            "Paladio",
+            "Polonio"
+        ],
+        "answer": "Plomo",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 55,
+        "question": "¿Qué elemento tiene el símbolo 'Zn' y se utiliza para galvanizar metales?",
+        "options": [
+            "Zinc",
+            "Zirconio",
+            "Zafiro",
+            "Zincato"
+        ],
+        "answer": "Zinc",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 56,
+        "question": "¿Qué elemento es conocido como el 'rey de los metales' y tiene el símbolo 'Pt'?",
+        "options": [
+            "Plata",
+            "Plomo",
+            "Platino",
+            "Potasio"
+        ],
+        "answer": "Platino",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 57,
+        "question": "¿Qué elemento tiene el símbolo 'Al' y es muy utilizado en la industria aeroespacial?",
+        "options": [
+            "Aluminio",
+            "Antimonio",
+            "Argón",
+            "Americio"
+        ],
+        "answer": "Aluminio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 58,
+        "question": "¿Cuál es el símbolo químico del magnesio?",
+        "options": [
+            "Mg",
+            "Mn",
+            "Mo",
+            "Md"
+        ],
+        "answer": "Mg",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 59,
+        "question": "¿Qué elemento tiene el número atómico 15 y es esencial para los fertilizantes?",
+        "options": [
+            "Fósforo",
+            "Flúor",
+            "Francio",
+            "Fermio"
+        ],
+        "answer": "Fósforo",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 60,
+        "question": "¿Qué elemento tiene el símbolo 'Cr' y se usa para cromar metales?",
+        "options": [
+            "Cromo",
+            "Cobre",
+            "Calcio",
+            "Cesio"
+        ],
+        "answer": "Cromo",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 61,
+        "question": "¿Qué elemento tiene el símbolo químico 'Au'?",
+        "options": [
+            "Plata",
+            "Aluminio",
+            "Oro",
+            "Uranio"
+        ],
+        "answer": "Oro",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 62,
+        "question": "¿Cuál es el único metal líquido a temperatura ambiente?",
+        "options": [
+            "Mercurio",
+            "Galio",
+            "Cesio",
+            "Francio"
+        ],
+        "answer": "Mercurio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 63,
+        "question": "¿Qué elemento es conocido por ser el más abundante en el universo?",
+        "options": [
+            "Oxígeno",
+            "Hidrógeno",
+            "Carbono",
+            "Nitrógeno"
+        ],
+        "answer": "Hidrógeno",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 64,
+        "question": "¿Cuál es el elemento con el número atómico 6?",
+        "options": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Carbono",
+            "Boro"
+        ],
+        "answer": "Carbono",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 65,
+        "question": "¿Qué elemento se utiliza comúnmente en los termómetros y tiene el símbolo 'Hg'?",
+        "options": [
+            "Helio",
+            "Hidrógeno",
+            "Mercurio",
+            "Magnesio"
+        ],
+        "answer": "Mercurio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 66,
+        "question": "¿Qué elemento es esencial para la vida y tiene el símbolo 'O'?",
+        "options": [
+            "Oxígeno",
+            "Oro",
+            "Osmio",
+            "Oxalato"
+        ],
+        "answer": "Oxígeno",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 67,
+        "question": "¿Cuál es el gas noble más ligero?",
+        "options": [
+            "Neón",
+            "Argón",
+            "Helio",
+            "Xenón"
+        ],
+        "answer": "Helio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 68,
+        "question": "¿Qué elemento tiene el símbolo 'Fe' y es crucial para la fabricación de acero?",
+        "options": [
+            "Fósforo",
+            "Flúor",
+            "Hierro",
+            "Francio"
+        ],
+        "answer": "Hierro",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 69,
+        "question": "¿Qué elemento se encuentra en el grupo 1 y es altamente reactivo con el agua?",
+        "options": [
+            "Sodio",
+            "Calcio",
+            "Magnesio",
+            "Aluminio"
+        ],
+        "answer": "Sodio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 70,
+        "question": "¿Cuál es el elemento más pesado que se encuentra de forma natural?",
+        "options": [
+            "Uranio",
+            "Plomo",
+            "Oro",
+            "Mercurio"
+        ],
+        "answer": "Uranio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 71,
+        "question": "¿Qué elemento tiene el símbolo 'Na' y es común en la sal de mesa?",
+        "options": [
+            "Nitrógeno",
+            "Neón",
+            "Sodio",
+            "Níquel"
+        ],
+        "answer": "Sodio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 72,
+        "question": "¿Qué elemento es conocido por su uso en baterías recargables y tiene el símbolo 'Li'?",
+        "options": [
+            "Litio",
+            "Lantano",
+            "Lutecio",
+            "Lirón"
+        ],
+        "answer": "Litio",
+        "difficulty": "medium",
+        "created_by": "system"
+    },
+    {
+        "id": 73,
+        "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+        "options": [
+            "Silicio",
+            "Oxígeno",
+            "Aluminio",
+            "Hierro"
+        ],
+        "answer": "Oxígeno",
+        "difficulty": "hard",
+        "created_by": "system"
+    },
+    {
+        "id": 74,
+        "question": "¿Qué elemento tiene el símbolo 'Pb' y se ha utilizado históricamente en tuberías?",
+        "options": [
+            "Plomo",
+            "Platino",
+            "Paladio",
+            "Polonio"
+        ],
+        "answer": "Plomo",
+        "difficulty": "hard",
+        "created_by": "system"
+    },
+    {
+        "id": 75,
+        "question": "¿Qué elemento es conocido por su uso en joyería y tiene el símbolo 'Ag'?",
+        "options": [
+            "Oro",
+            "Aluminio",
+            "Plata",
+            "Argón"
+        ],
+        "answer": "Plata",
+        "difficulty": "hard",
+        "created_by": "system"
+    },
+    {
+        "id": 76,
+        "question": "¿Cuál es el elemento con el número atómico 79?",
+        "options": [
+            "Platino",
+            "Oro",
+            "Plomo",
+            "Uranio"
+        ],
+        "answer": "Oro",
+        "difficulty": "hard",
+        "created_by": "system"
+    },
+    {
+        "id": 77,
+        "question": "¿Qué elemento tiene el símbolo 'K' y es esencial para la función nerviosa?",
+        "options": [
+            "Calcio",
+            "Potasio",
+            "Kriptón",
+            "Cobalto"
+        ],
+        "answer": "Potasio",
+        "difficulty": "hard",
+        "created_by": "system"
+    },
+    {
+        "id": 78,
+        "question": "¿Qué elemento es conocido por su uso en la fabricación de chips de computadora y tiene el símbolo 'Si'?",
+        "options": [
+            "Silicio",
+            "Selenio",
+            "Sodio",
+            "Estroncio"
+        ],
+        "answer": "Silicio",
+        "difficulty": "hard",
+        "created_by": "system"
+    },
+    {
+        "id": 79,
+        "question": "¿Qué tipo de enlace químico se forma cuando se comparten electrones entre dos átomos?",
+        "options": [
+            "Enlace iónico",
+            "Enlace covalente",
+            "Enlace metálico",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 80,
+        "question": "¿Cuál es la molaridad de una solución preparada disolviendo 10 gramos de NaOH en agua suficiente para hacer 250 mL de solución? (Peso molecular de NaOH = 40 g/mol)",
+        "options": [
+            "0.5 M",
+            "1.0 M",
+            "1.5 M",
+            "2.0 M"
+        ],
+        "answer": "1.0 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 81,
+        "question": "Considerando la siguiente reacción reversible en equilibrio: N2(g) + 3H2(g) ⇌ 2NH3(g) + Calor. ¿Qué ocurrirá con la cantidad de NH3 en el equilibrio si se disminuye la temperatura del sistema?",
+        "options": [
+            "Aumentará",
+            "Disminuirá",
+            "No se verá afectada",
+            "Dependerá de la presión"
+        ],
+        "answer": "Aumentará",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 82,
+        "question": "¿Qué tipo de enlace químico se forma al compartir electrones entre dos átomos?",
+        "options": [
+            "Enlace iónico",
+            "Enlace covalente",
+            "Enlace metálico",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 83,
+        "question": "¿Cuál de las siguientes opciones representa la configuración electrónica del oxígeno (O)?",
+        "options": [
+            "1s²2s²2p²",
+            "1s²2s²2p³",
+            "1s²2s²2p⁴",
+            "1s²2s²2p⁵"
+        ],
+        "answer": "1s²2s²2p⁴",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 84,
+        "question": "Si tienes una solución de ácido clorhídrico (HCl) con un pH de 3, ¿cuál sería la concentración de iones hidronio (H₃O⁺) en moles por litro (M)?",
+        "options": [
+            "1 x 10⁻³ M",
+            "3 M",
+            "1 x 10⁻¹¹ M",
+            "11 M"
+        ],
+        "answer": "1 x 10⁻³ M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 85,
+        "question": "En una reacción de primer orden, la vida media de un reactivo es de 69.3 segundos. ¿Cuál es la constante de velocidad (k) de esta reacción en s⁻¹?",
+        "options": [
+            "0.01 s⁻¹",
+            "0.1 s⁻¹",
+            "1 s⁻¹",
+            "10 s⁻¹"
+        ],
+        "answer": "0.01 s⁻¹",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 86,
+        "question": "¿Cuál de las siguientes opciones representa la fórmula empírica del glucosa (C6H12O6)?",
+        "options": [
+            "C6H12O6",
+            "C3H6O3",
+            "CH2O",
+            "C2H4O2"
+        ],
+        "answer": "CH2O",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 87,
+        "question": "Si la concentración de iones hidronio [H3O+] en una disolución es 1.0 x 10-5 M, ¿cuál es el pH de la disolución?",
+        "options": [
+            "5",
+            "9",
+            "-5",
+            "14"
+        ],
+        "answer": "5",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 88,
+        "question": "¿Cuál de los siguientes compuestos es un ejemplo de un ácido carboxílico?",
+        "options": [
+            "CH3OH",
+            "CH3CHO",
+            "CH3COOH",
+            "CH3OCH3"
+        ],
+        "answer": "CH3COOH",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 89,
+        "question": "¿Cuál de los siguientes no es un tipo de enlace químico?",
+        "options": [
+            "Iónico",
+            "Covalente",
+            "Metálico",
+            "Nuclear"
+        ],
+        "answer": "Nuclear",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 90,
+        "question": "¿Qué representa el número atómico de un elemento?",
+        "options": [
+            "El número de neutrones en el núcleo",
+            "El número de protones en el núcleo",
+            "La masa total del átomo",
+            "El número de electrones en el nivel de valencia"
+        ],
+        "answer": "El número de protones en el núcleo",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 91,
+        "question": "¿Cuál es la molaridad de una solución que contiene 40 gramos de NaOH en 500 mL de solución (masa molar de NaOH = 40 g/mol)?",
+        "options": [
+            "0.5 M",
+            "1 M",
+            "2 M",
+            "0.2 M"
+        ],
+        "answer": "2 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 92,
+        "question": "Considerando la reacción: 2H₂(g) + O₂(g) → 2H₂O(g)  ¿Cuántos litros de O₂ a TPN (temperatura y presión normales) se requieren para reaccionar completamente con 4 litros de H₂ a TPN?",
+        "options": [
+            "1 litro",
+            "2 litros",
+            "4 litros",
+            "8 litros"
+        ],
+        "answer": "2 litros",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 93,
+        "question": "¿Cuál de los siguientes es un ejemplo de un cambio físico?",
+        "options": [
+            "Oxidación del hierro",
+            "Combustión de la madera",
+            "Fusión del hielo",
+            "Neutralización de un ácido con una base"
+        ],
+        "answer": "Fusión del hielo",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 94,
+        "question": "¿Cuál es la masa molar del agua (H₂O)?",
+        "options": [
+            "16 g/mol",
+            "17 g/mol",
+            "18 g/mol",
+            "19 g/mol"
+        ],
+        "answer": "18 g/mol",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 95,
+        "question": "¿Qué tipo de enlace se forma cuando dos átomos comparten electrones?",
+        "options": [
+            "Enlace iónico",
+            "Enlace metálico",
+            "Enlace covalente",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 96,
+        "question": "¿Cuál es la molaridad de una solución preparada disolviendo 11.6 g de NaCl en suficiente agua para hacer 200 mL de solución? (Masa molar de NaCl = 58 g/mol)",
+        "options": [
+            "0.1 M",
+            "0.5 M",
+            "1.0 M",
+            "2.0 M"
+        ],
+        "answer": "1.0 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 97,
+        "question": "¿Cuál de los siguientes es un ejemplo de un compuesto iónico?",
+        "options": [
+            "CO2",
+            "H2O",
+            "NaCl",
+            "CH4"
+        ],
+        "answer": "NaCl",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 98,
+        "question": "¿Qué tipo de enlace químico se forma cuando dos átomos comparten electrones?",
+        "options": [
+            "Enlace iónico",
+            "Enlace covalente",
+            "Enlace metálico",
+            "Fuerza de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 99,
+        "question": "Si se disuelven 10 gramos de NaCl en suficiente agua para hacer 500 mL de solución, ¿cuál es la molaridad de la solución?",
+        "options": [
+            "0.17 M",
+            "0.34 M",
+            "0.50 M",
+            "1.00 M"
+        ],
+        "answer": "0.34 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 100,
+        "question": "¿Cuál de los siguientes enunciados describe mejor la Ley de Hess?",
+        "options": [
+            "La energía no se crea ni se destruye, solo se transforma.",
+            "El volumen de un gas es inversamente proporcional a su presión a temperatura constante.",
+            "El cambio de entalpía de una reacción es el mismo independientemente de si la reacción ocurre en uno o varios pasos.",
+            "La velocidad de una reacción es proporcional a la concentración de los reactivos."
+        ],
+        "answer": "El cambio de entalpía de una reacción es el mismo independientemente de si la reacción ocurre en uno o varios pasos.",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 101,
+        "question": "¿Cuál es el símbolo químico del potasio?",
+        "options": [
+            "K",
+            "P",
+            "Po",
+            "Pt"
+        ],
+        "answer": "K",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 102,
+        "question": "¿Cuántos moles hay en 56 gramos de hierro (Fe)? (Peso atómico del Fe = 56 g/mol)",
+        "options": [
+            "0.5 moles",
+            "1 mol",
+            "2 moles",
+            "56 moles"
+        ],
+        "answer": "1 mol",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 103,
+        "question": "¿Cuál de las siguientes afirmaciones es correcta con respecto a la electronegatividad?",
+        "options": [
+            "Aumenta de izquierda a derecha y de arriba hacia abajo en la tabla periódica.",
+            "Disminuye de izquierda a derecha y aumenta de arriba hacia abajo en la tabla periódica.",
+            "Aumenta de izquierda a derecha y disminuye de arriba hacia abajo en la tabla periódica.",
+            "Disminuye de izquierda a derecha y de arriba hacia abajo en la tabla periódica."
+        ],
+        "answer": "Aumenta de izquierda a derecha y disminuye de arriba hacia abajo en la tabla periódica.",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 104,
+        "question": "Si el pH de una solución acuosa es 3.0, ¿cuál es la concentración de iones hidronio [H3O+] en moles por litro (M)?",
+        "options": [
+            "1 x 10^-3 M",
+            "3 M",
+            "1 x 10^3 M",
+            "1 x 10^-11 M"
+        ],
+        "answer": "1 x 10^-3 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 105,
+        "question": "¿Qué tipo de enlace químico se forma entre dos átomos que comparten electrones?",
+        "options": [
+            "Enlace iónico",
+            "Enlace covalente",
+            "Enlace metálico",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 106,
+        "question": "Si se disuelven 20 gramos de NaCl en suficiente agua para hacer 500 mL de solución, ¿cuál es la molaridad de la solución?",
+        "options": [
+            "0.68 M",
+            "0.34 M",
+            "0.17 M",
+            "0.085 M"
+        ],
+        "answer": "0.68 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 107,
+        "question": "La entalpía estándar de formación del dióxido de carbono (CO₂) es -393.5 kJ/mol. ¿Cuál de las siguientes afirmaciones es correcta acerca de la formación de CO₂ a partir de sus elementos en condiciones estándar?",
+        "options": [
+            "Es un proceso endotérmico.",
+            "Es un proceso exotérmico.",
+            "No hay cambio de entalpía.",
+            "La entalpía aumenta en 393.5 kJ/mol."
+        ],
+        "answer": "Es un proceso exotérmico.",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 108,
+        "question": "¿Cuál de las siguientes es una mezcla homogénea?",
+        "options": [
+            "Agua con arena",
+            "Agua con aceite",
+            "Agua salada",
+            "Ensalada de frutas"
+        ],
+        "answer": "Agua salada",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 109,
+        "question": "¿Cuál es la fórmula química del óxido de magnesio?",
+        "options": [
+            "MgO",
+            "Mg2O",
+            "MgO2",
+            "Mg2O3"
+        ],
+        "answer": "MgO",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 110,
+        "question": "¿Cuál de las siguientes opciones describe mejor un enlace covalente polar?",
+        "options": [
+            "Compartición equitativa de electrones",
+            "Transferencia completa de electrones",
+            "Compartición desigual de electrones",
+            "Atracción electrostática entre iones"
+        ],
+        "answer": "Compartición desigual de electrones",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 111,
+        "question": "Si la entalpía de formación del agua líquida (H2O(l)) es -286 kJ/mol y la entalpía de formación del agua gaseosa (H2O(g)) es -242 kJ/mol, ¿cuál es la entalpía de vaporización del agua?",
+        "options": [
+            "-528 kJ/mol",
+            "44 kJ/mol",
+            "-44 kJ/mol",
+            "528 kJ/mol"
+        ],
+        "answer": "44 kJ/mol",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 112,
+        "question": "Si se disuelven 20 gramos de NaCl en suficiente agua para hacer 500 mL de solución, ¿cuál es la molaridad de la solución? (Peso molecular de NaCl = 58.44 g/mol)",
+        "options": [
+            "0.34 M",
+            "0.68 M",
+            "1.37 M",
+            "2.74 M"
+        ],
+        "answer": "0.68 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 113,
+        "question": "¿Cuál de los siguientes representa un ejemplo de reacción redox?",
+        "options": [
+            "AgNO3(ac) + NaCl(ac) -> AgCl(s) + NaNO3(ac)",
+            "HCl(ac) + NaOH(ac) -> NaCl(ac) + H2O(l)",
+            "CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)",
+            "NH3(g) + H2O(l) -> NH4+(ac) + OH-(ac)"
+        ],
+        "answer": "CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 114,
+        "question": "¿Cuál es la molaridad de una solución preparada disolviendo 11.6 g de NaCl en suficiente agua para hacer 2.0 L de solución? (Peso atómico: Na = 23 g/mol, Cl = 35.5 g/mol)",
+        "options": [
+            "0.1 M",
+            "1.0 M",
+            "0.5 M",
+            "0.01 M"
+        ],
+        "answer": "0.1 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 115,
+        "question": "¿Cuál es la molaridad de una solución preparada disolviendo 29.2 gramos de NaCl en suficiente agua para hacer 500 mL de solución? (Peso atómico Na=23, Cl=35.5)",
+        "options": [
+            "0.5 M",
+            "1.0 M",
+            "1.5 M",
+            "2.0 M"
+        ],
+        "answer": "1.0 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 116,
+        "question": "¿Cuál de las siguientes opciones representa una reacción de neutralización?",
+        "options": [
+            "Mg + O₂ → 2MgO",
+            "HCl + NaOH → NaCl + H₂O",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O",
+            "AgNO₃ + NaCl → AgCl + NaNO₃"
+        ],
+        "answer": "HCl + NaOH → NaCl + H₂O",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 117,
+        "question": "Considerando la ley de Boyle, si la presión de un gas ideal se duplica a temperatura constante, ¿qué le sucede a su volumen?",
+        "options": [
+            "Se duplica",
+            "Se reduce a la mitad",
+            "Permanece constante",
+            "Se cuadriplica"
+        ],
+        "answer": "Se reduce a la mitad",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 118,
+        "question": "¿Cuál es la concentración molar de una disolución preparada disolviendo 29.2 gramos de NaCl en suficiente agua para obtener 500 mL de disolución? (Masa molar de NaCl = 58.4 g/mol)",
+        "options": [
+            "0.25 M",
+            "0.5 M",
+            "1.0 M",
+            "2.0 M"
+        ],
+        "answer": "1.0 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 119,
+        "question": "¿Qué tipo de enlace se forma cuando se comparten electrones entre átomos?",
+        "options": [
+            "Enlace iónico",
+            "Enlace covalente",
+            "Enlace metálico",
+            "Fuerzas de Van der Waals"
+        ],
+        "answer": "Enlace covalente",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 120,
+        "question": "¿Cuál es la concentración molar de una disolución preparada disolviendo 5.85 gramos de NaCl en agua hasta obtener un volumen final de 500 mL? (Peso molecular de NaCl = 58.5 g/mol)",
+        "options": [
+            "0.1 M",
+            "0.2 M",
+            "0.5 M",
+            "1.0 M"
+        ],
+        "answer": "0.2 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 121,
+        "question": "Si una reacción tiene un ΔH negativo, ¿qué se puede afirmar sobre ella?",
+        "options": [
+            "Es endotérmica y absorbe calor.",
+            "Es exotérmica y libera calor.",
+            "Está en equilibrio y no hay cambio de calor.",
+            "No se puede determinar el cambio de calor."
+        ],
+        "answer": "Es exotérmica y libera calor.",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 122,
+        "question": "En una titulación ácido-base, ¿cuál es el punto en el que el número de moles de ácido es igual al número de moles de base?",
+        "options": [
+            "Punto de ebullición",
+            "Punto de fusión",
+            "Punto de equivalencia",
+            "Punto de saturación"
+        ],
+        "answer": "Punto de equivalencia",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 123,
+        "question": "¿Cuál de las siguientes opciones describe mejor la Ley de Hess?",
+        "options": [
+            "La entalpía de una reacción es independiente de la ruta tomada.",
+            "La entropía de un sistema aislado siempre aumenta.",
+            "La energía interna de un sistema aislado es constante.",
+            "La presión de un gas es inversamente proporcional a su volumen."
+        ],
+        "answer": "La entalpía de una reacción es independiente de la ruta tomada.",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 124,
+        "question": "¿Cuál de las siguientes opciones representa un enlace iónico?",
+        "options": [
+            "H₂",
+            "NaCl",
+            "CH₄",
+            "O₂"
+        ],
+        "answer": "NaCl",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 125,
+        "question": "¿Cuál es la molaridad de una solución preparada disolviendo 58.5 gramos de NaCl en suficiente agua para hacer 500 mL de solución? (Peso molecular del NaCl = 58.5 g/mol)",
+        "options": [
+            "0.5 M",
+            "1.0 M",
+            "2.0 M",
+            "0.2 M"
+        ],
+        "answer": "2.0 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 126,
+        "question": "¿Cuál es la concentración de iones hidronio [H3O+] en una solución acuosa a 25°C con un pH de 3?",
+        "options": [
+            "1 x 10^-3 M",
+            "1 x 10^-11 M",
+            "3 M",
+            "1 x 10^3 M"
+        ],
+        "answer": "1 x 10^-3 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 127,
+        "question": "Si 50.0 g de un metal a 85.0°C se colocan en 100.0 g de agua a 22.0°C, y la temperatura final del agua y el metal es 25.6°C, ¿cuál es el calor específico del metal? (El calor específico del agua es 4.184 J/g°C)",
+        "options": [
+            "0.45 J/g°C",
+            "1.12 J/g°C",
+            "2.24 J/g°C",
+            "4.184 J/g°C"
+        ],
+        "answer": "0.45 J/g°C",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 128,
+        "question": "¿Cuál de las siguientes opciones representa una reacción exotérmica?",
+        "options": [
+            "La fotosíntesis",
+            "La fusión del hielo",
+            "La combustión del metano",
+            "La evaporación del agua"
+        ],
+        "answer": "La combustión del metano",
+        "difficulty": "medium",
+        "created_by": "IA"
+    },
+    {
+        "id": 129,
+        "question": "¿Cuál es la molaridad de una solución preparada disolviendo 58.5 gramos de NaCl en suficiente agua para obtener 500 mL de solución? (Peso molecular del NaCl = 58.5 g/mol)",
+        "options": [
+            "0.5 M",
+            "1.0 M",
+            "2.0 M",
+            "4.0 M"
+        ],
+        "answer": "2.0 M",
+        "difficulty": "medium",
+        "created_by": "IA"
+    }
+]

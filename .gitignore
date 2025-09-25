@@ -1,0 +1,31 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.env.*
+!*.env.example
+
+.bin/
+
+# FastAPI specific
+instance/
+*.log
+*.sqlite3
+*.sqlite
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE specific
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+*.rar
