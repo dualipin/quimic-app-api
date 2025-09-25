@@ -12,8 +12,6 @@ __pycache__/
 # FastAPI specific
 instance/
 *.log
-*.sqlite3
-*.sqlite
 
 # Virtual environment
 venv/
