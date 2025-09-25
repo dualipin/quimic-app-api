@@ -20,6 +20,14 @@ Para ejecutar el servidor, utilice el siguiente comando:
 fastapi dev app/main.py
 ```
 
+## producción
+
+Para ejecutar el servidor en producción, utilice el siguiente comando:
+
+```bash
+uvicorn app.main:app --host 0.0.0.0 --port 8000
+```
+
 ## Módulos
 
 - Lotería: Este módulo contiene la lógica del juego de lotería. Permite a los jugadores jugar al juego de lotería y verificar si han ganado o no.
