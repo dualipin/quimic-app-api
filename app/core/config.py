@@ -8,6 +8,7 @@ class Settings(BaseSettings):
     email_port: int = 587
     email_from: str
     email_password: str
+    database_url: str = "postgresql://user:password@localhost:5432/quimic_db"
 
     model_config = SettingsConfigDict(env_file=".env")
 
