@@ -1,8 +1,11 @@
 # Backend de los Juegos de Química
 
+## Autor
+- **GitHub:** [dualipin](https://github.com/dualipin)    
+
 ## Descripción
 
-Este es el backend de los juegos de química, un proyecto que tiene como objetivo ayudar a los estudiantes a aprender química de una manera divertida y entretenida. El backend está construido con Node.js y Express, y utiliza MongoDB como base de datos.
+Este es el backend de los juegos de química, un proyecto que tiene como objetivo ayudar a los estudiantes a aprender química de una manera divertida y entretenida. El backend está construido con No[...]
 
 ### Instalación
 
