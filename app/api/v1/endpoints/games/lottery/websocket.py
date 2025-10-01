@@ -124,5 +124,25 @@ async def websocket_endpoint(websocket: WebSocket, room_code: str, player_id: st
 
 
 async def broadcast(room_code: str, message: dict):
-    for connection in connections.get(room_code, []):
-        await connection.send_json(message)
+    if room_code not in connections:
+        return
+
+    # Create a copy of the connections list to avoid modification during iteration
+    room_connections = connections[room_code].copy()
+    disconnected = []
+
+    for connection in room_connections:
+        try:
+            await connection.send_json(message)
+        except RuntimeError:
+            # Connection is closed, mark for removal
+            disconnected.append(connection)
+        except Exception as e:
+            # Handle other potential errors
+            print(f"Error sending message to WebSocket: {e}")
+            disconnected.append(connection)
+
+    # Remove disconnected connections
+    for connection in disconnected:
+        if connection in connections.get(room_code, []):
+            connections[room_code].remove(connection)
