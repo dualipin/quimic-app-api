@@ -110,7 +110,7 @@ async def websocket_endpoint(websocket: WebSocket, room_code: str, player_id: st
                 "event": "player_left",
                 "player_id": player_id,
                 "player_name": player_name,
-                "remaining_players": len(room.players),
+                "remaining_players": len(room.players) if room else 0,
                 "message": f"{player_name} ha salido de la sala",
             },
         )
